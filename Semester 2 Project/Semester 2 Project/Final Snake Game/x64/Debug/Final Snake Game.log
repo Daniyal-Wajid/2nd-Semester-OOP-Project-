@@ -1,0 +1,17 @@
+﻿  Snake Game.cpp
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(343): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(347): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(348): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(456): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(491): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(711): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\Final Snake Game\Snake Game.cpp(716): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Final Snake Game.vcxproj -> C:\Users\daniy\OneDrive\Desktop\visual studio\Final Project\Final Snake Game var 1\x64\Debug\Final Snake Game.exe
