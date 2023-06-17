@@ -1,0 +1,14 @@
+1. Create new project, new source file.
+2. go to project's properties.
+3. C++ -> General -> include folder's location.
+4. Linker -> General -> lib folder's location.
+4. Linker -> Input -> copy paste this in Linker Input:
+
+opengl32.lib
+sfml-system-d.lib
+sfml-window-d.lib
+sfml-graphics-d.lib
+sfml-main-d.lib
+
+5. Go to SFML bin folderand copy the files.
+6. Go to solution x64 folder -> debug  and paste contents of bin.
